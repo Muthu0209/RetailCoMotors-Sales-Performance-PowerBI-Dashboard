@@ -182,7 +182,7 @@ retailcomotors-sales-powerbi/
 ## How to Run
 
 1. Clone the repo: `git clone https://github.com/<your-username>/retailcomotors-sales-powerbi.git`
-2. Open `MLS3.pbix` in **Power BI Desktop**.
+2. Open `RetailCoMotors-Sales-Performance-PowerBI Dashboard.pbix` in **Power BI Desktop**.
 3. If prompted, update the data source: *Home → Transform data → Data source settings* and point to your local `ShoppersSale.xlsx`.
 4. Click **Refresh**.
 5. To test RLS, go to *Modeling → View as* and select **California**.
